@@ -2,3 +2,4 @@
 
 - second commit
 - pushing to remote
+- pushing from remote to local
